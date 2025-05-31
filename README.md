@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40albertcavalcante%2Fhow-to-reach-developer-experience-supreme-level-part-two-suffering-because-of-bad-dx-da4e505b26f2&psig=AOvVaw0em8GkKImmla5JT_ngXRdX&ust=1748795451038000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiehvqQzo0DFQAAAAAdAAAAABAE"  />
-
 ###
 
 <div align="left">
