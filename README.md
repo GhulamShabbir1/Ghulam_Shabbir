@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm <h1>GHULAM SHABBIR</h1> — a passionate Computer Science student from The University of Lahore 🇵🇰, exploring the world of full-stack development, AI, and modern web technologies.<br><br>💡 I'm currently working on:<br>- 🤖 A  web app OR Web clone<br>- 🌐 Personal portfolio with animations and responsive design<br><br>🚀 My tech stack includes:<br>- ⚛️ React.js, Vite,  CSS<br>- 🔧 Node.js, Express.js, MongoDB<br>- 🌐 HTML5, CSS3, JavaScript (ES6+)<br><br>🧠 Always learning:<br>- Advanced Machine Learning<br>- Full-stack deployment and CI/CD automation<br>- UX/UI and accessibility best practices<br><br>
+👋 Hi, I'm <h1>GHULAM SHABBIR</h1>  A passionate Computer Science student from The University of Lahore 🇵🇰, exploring the world of full-stack development, AI, and modern web technologies.<br><br>💡 I'm currently working on:<br>- 🤖 A  web app OR Web clone<br>- 🌐 Personal portfolio with animations and responsive design<br><br>🚀 My tech stack includes:<br>- ⚛️ React.js, Vite,  CSS<br>- 🔧 Node.js, Express.js, MongoDB<br>- 🌐 HTML5, CSS3, JavaScript (ES6+)<br><br>🧠 Always learning:<br>- Advanced Machine Learning<br>- Full-stack deployment and CI/CD automation<br>- UX/UI and accessibility best practices<br><br>
 
 
 ## 🌐 Socials:
